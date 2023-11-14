@@ -1,5 +1,8 @@
 
 # Vitej v pokusnem repozitari
+
+https://pepa-v.github.io/odkazy1/
+
 Tento repozitar slouzi k experimentovani s procesem klonovani a editace pomoci vzdaleneho repozitare na platforme GitHub.
 ## Jak zacit kdyz bychom potrebovali prikazy
 0. **Ozivovani propojeni:**
