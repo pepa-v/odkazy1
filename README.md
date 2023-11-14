@@ -1,8 +1,13 @@
-# Vitej v pokusnem Repozitari
+
+# Vitej v pokusnem repozitari
 Tento repozitar slouzi k experimentovani s procesem klonovani a editace pomoci vzdaleneho repozitare na platforme GitHub.
 ## Jak zacit kdyz bychom potrebovali prikazy
+0. **Ozivovani propojeni:**
+     ```git config --global user.name ""
+     ```git config --global user.email ""
+
 1. **Klonovani repozitare:**
-   - Pouzij prikaz `git clone` pro naklonovani tohoto repozitare na tvuj lokalni stroj.
+   - Pouzij prikaz `git clone` pro naklonovani tohoto repozitare na tvuj lokalni stroj, pocitac.
      ```bash
      git clone <odkaz-na-repozitar>
      ```
