@@ -1,4 +1,4 @@
-# Vitej v Pokusnem Repozitari
+# Vitej v pokusnem Repozitari
 Tento repozitar slouzi k experimentovani s procesem klonovani a editace pomoci vzdaleneho repozitare na platforme GitHub.
 ## Jak zacit kdyz bychom potrebovali prikazy
 1. **Klonovani repozitare:**
